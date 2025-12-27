@@ -84,6 +84,7 @@ header {
 .items {
   display: flex;
   gap: 5px;
+  overflow-x: auto;
 }
 
 .footer_container {
