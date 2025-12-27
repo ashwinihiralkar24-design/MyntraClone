@@ -65,7 +65,7 @@ header {
   height: 40px;
   width: 300px;
   border: 0;
-  border-radius: 0 4px 4px 0;
+  border-radius: 4px;
 }
 
 .action_container {
@@ -88,4 +88,5 @@ header {
 
 .footer_container {
   display: flex;
+  margin-bottom: 10px;
 }
